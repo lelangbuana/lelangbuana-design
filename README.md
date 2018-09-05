@@ -1,5 +1,8 @@
 # LelangBuana Design
 
+## Logo Lelangbuana
+![Logo](Lelangbuana-logo.png)
+
 ## Screenshot
 
 ![Lelangbuana UI/UX Design](Revised-UIUX-design.png)
