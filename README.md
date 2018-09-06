@@ -14,4 +14,4 @@
   
 ## Presentation Slide
 
-- [Google Slide](https://docs.google.com/presentation/d/1C0OpQFqKlHgGPsxN7Sc94bf5X9wqPSUnzejsynpoRlw/edit#slide=id.p1)
+- [Google Slide](http://bit.ly/lelangbuana)
